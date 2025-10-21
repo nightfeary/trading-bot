@@ -1,0 +1,13 @@
+                                 Open  ...  Stock Splits
+Date                                   ...              
+2025-10-10 00:00:00-04:00  519.640015  ...           0.0
+
+[1 rows x 7 columns]                                 Open  ...  Stock Splits
+Date                                   ...              
+2025-10-10 00:00:00-04:00  519.640015  ...           0.0
+
+[1 rows x 7 columns]                                 Open  ...  Stock Splits
+Date                                   ...              
+2025-10-10 00:00:00-04:00  519.640015  ...           0.0
+
+[1 rows x 7 columns]
